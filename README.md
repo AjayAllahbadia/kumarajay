@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm kumarajay</h1>
-<h3 align="center">🚀 Passionate Data Analyst | Enthusiastic About All Things Tech | Bridging Data and Technology
-💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights
-📊 Data Analytics Expert | Devoted to Tech Innovations | Visualizing Complex Data
-🌟 Driven Data Specialist | Tech Savvy Professional | Unlocking Data's Potential
-🎮 Technology Buff | Data Analysis Fanatic | Crafting Data-Driven Solutions</h3>
+<h3 align="center">🚀 Passionate Data Analyst | Enthusiastic About All Things Tech | Bridging Data and Technology</h3>
+<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
+<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
+<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
+<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
+<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
 
 - 🌱 I’m currently learning **Data Analytics, Power Bi, SQL, Python(Pandas, Numpy))**
 
