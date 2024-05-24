@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm kumarajay</h1>
+<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">🚀 Passionate Data Analyst | Enthusiastic About All Things Tech | Bridging Data and Technology</h3>
 <h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
-<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
-<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
-<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
-<h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
+<h3>📊 Data Analytics Expert | Devoted to Tech Innovations | Visualizing Complex Data</h3>
+<h3>🌟 Driven Data Specialist | Tech Savvy Professional | Unlocking Data's Potential</h3>
+<h3>🔍 Analytical Mind | Technology Geek | Mastering Data with Precision</h3>
+<h3>🚀 Insightful Data Analyst | Tech Lover | Bringing Data to Life with Technology</h3>
 
 - 🌱 I’m currently learning **Data Analytics, Power Bi, SQL, Python(Pandas, Numpy))**
 
