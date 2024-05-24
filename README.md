@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
-<h3 align="center">🚀 Passionate Data Analyst | Enthusiastic About All Things Tech | Bridging Data and Technology</h3>
+<h2 align="center">🚀 Passionate Data Analyst | Enthusiastic About All Things Tech | Bridging Data and Technology</h2>
 <h3>💻 Tech Enthusiast | Data Analyst | Turning Raw Data into Meaningful Insights</h3>
 <h3>📊 Data Analytics Expert | Devoted to Tech Innovations | Visualizing Complex Data</h3>
 <h3>🌟 Driven Data Specialist | Tech Savvy Professional | Unlocking Data's Potential</h3>
